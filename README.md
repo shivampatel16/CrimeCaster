@@ -1,5 +1,4 @@
-# CrimeCaster
-Investigating Pittsburgh's High-Crime Era with 2D Trees
+# CrimeCaster: Investigating Pittsburgh's High-Crime Era with 2D Trees
 
 - Implemented a 2D Tree data structure to store crime records from Pittsburgh area.
 
